@@ -10,9 +10,9 @@ html, body {
 
 h1 {
   margin: 0;
-  height: 45px;
+  height: 30px
   color: lightgray;
-  text-align: center, bottom;
+  text-align: center;
   background-color: rgb(75, 75, 75);
   font-size: 25px;
 }

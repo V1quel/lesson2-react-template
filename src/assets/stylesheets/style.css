@@ -12,10 +12,9 @@ h1 {
   margin: 0;
   height: 45px;
   color: lightgray;
-  text-align: center;
+  text-align: center, bottom;
   background-color: rgb(75, 75, 75);
   font-size: 25px;
-  float: center;
 }
 
 #root {

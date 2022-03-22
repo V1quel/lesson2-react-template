@@ -10,6 +10,7 @@ html, body {
 
 h1 {
   margin: 0;
+  height: 50px;
   color: lightgray;
   text-align: center;
   background-color: rgb(75, 75, 75);
